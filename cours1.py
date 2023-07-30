@@ -1,4 +1,4 @@
-//using functions
+#using functions
 def area_triangle(base,heigth):
     return base*heigth/2
 
